@@ -1,0 +1,16 @@
+input {
+  border-color: darkblue;
+  border-radius: 1em;
+  padding: 5px 10px;
+  outline: none;
+}
+input::placeholder {
+  color: darkblue;
+}
+button {
+  padding: 5px 10px;
+  background-color: white;
+  color: darkblue;
+  margin: 10px;
+  border-radius: 1em;
+}
